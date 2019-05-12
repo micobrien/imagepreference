@@ -28,7 +28,7 @@ assessments where employed to improve the systems performance.
 
 The source code for the system follows the following structure:
 <p align="center">
-  <img src="assets/2.png" width="547" alt="2">
+  <img src="assets/2.jpg" width="547" alt="2">
 </p>
 
 All functions excluding the two mask functions (which are used for segmentation in individual tests) are called by the main script. The decision to develop a solution in this configuration was made to make it easier to work collaboratively and introduce or remove certain tests quickly. This also assisted in making the solution easily readable. Each of the functions implemented draws on common techniques in digital image processing and are as follows:
